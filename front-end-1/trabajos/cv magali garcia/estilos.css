@@ -1,0 +1,86 @@
+header{
+    background-color:#FFF3E4;
+    text-align: center;
+    
+}
+
+body{
+    background-color:#FFF3E4;
+}
+
+footer{
+    background-color:#483434;
+    
+}
+
+footer p{
+    color:#FFF3E4;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.link{
+    color:#FFF3E4;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.italica{
+    font-style: italic;
+}
+
+.contacto{
+    background-color:#483434;
+    text-align: center;
+    
+}
+
+.contacto span{
+    color:#FFF3E4;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    
+       
+}
+
+h1 {
+    color:#483434;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+h2 {
+    color:#FFF3E4;
+    background-color:#6B4F4F;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+h3 {
+    color:#6B4F4F;
+    font-size: 35px;
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+dt {
+    color:#483434;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+
+dd {
+    color:#6B4F4F;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace
+    
+}

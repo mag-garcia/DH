@@ -1,0 +1,71 @@
+body {
+    background-image: url(./img/cherry-blossom.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+	text-align: center;
+    font-family: 'Coming Soon', cursive, Garamond;
+    line-height: 40px;
+    
+}
+
+
+#gifheader1{
+    max-width: 130px;
+    max-height: 130px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    position: relative;
+    top: 95px;
+    left: -120px;
+    
+}
+
+#gifheader2{
+    max-width: 130px;
+    max-height: 130px;
+    width: auto;
+    height: auto;
+    text-align: right;
+    position: relative;
+    top: 95px;
+    right: -120px;
+    
+}
+
+
+
+h1,h2{
+    text-align: centered;
+}
+
+h1{
+    font-size: 50px;
+    text-align: centered;
+    color: #3B0000;
+}
+
+h2{
+    font-size: 40px;
+    color: #3B0000;
+}
+
+
+.link{
+    font-size: 30px;
+    background-color: #FFF6CD;
+    color: #FF0000;
+    opacity: 0.8;
+    
+    
+}
+
+#giffooter{
+    width: auto;
+    height: auto;
+    max-width: 250px;
+    max-height: 250px
+    
+    
+}
